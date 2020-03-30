@@ -246,7 +246,7 @@ body {
 }
 #header .site-name .description {
   padding: 0.6em 0 0;
-  color: #fff;
+  color: #879257;
   text-shadow: 1px 2px 3px #113f6e;
   white-space: normal;
   word-wrap: break-word;
@@ -255,7 +255,7 @@ body {
 #logo {
   font: bold 42px/1.2 "宋体";
   white-space: nowrap;
-  color: #fff;
+  color: #494dd4;
   text-shadow: 1px 3px 6px #113f6e;
 }
 #nav-menu {
@@ -292,7 +292,7 @@ body {
   -webkit-box-shadow: 1px 2px 3px #adc2d7;
   box-shadow: 1px 2px 3px #adc2d7;
   border: 1px solid #adc2d7;
-  background: #fff;
+  background: #baccd2;
 }
 #sidebar .widget a {
   color: #333;
@@ -524,7 +524,7 @@ body {
 /* post */
 .post {
   padding: 25px;
-  background: #fff;
+  background: #baccd2;
   border-radius: 4px;
   -webkit-box-shadow: 1px 2px 3px #adc2d7;
   box-shadow: 1px 2px 3px #adc2d7;
@@ -901,12 +901,12 @@ body {
 }
 #footer .footer-info {
   line-height: 2;
-  color: #333;
+  color: #fff;
   text-align: center;
   font-size: 0.925em;
 }
 #footer .footer-info a {
-  color: #40759b;
+  color: #fff;
   margin: 0 6px;
 }
 #footer .footer-info span {
@@ -1080,9 +1080,9 @@ body {
   height: 54px;
   line-height: 56px;
   overflow: hidden;
-  color: #40759b;
+  color: #ff1700;
   text-align: center;
-  text-shadow: 0px 2px 2px #40759b;
+  text-shadow: 0px 2px 2px #fb5e06;
   opacity: 0;
   -webkit-transition: visibility 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335), opacity 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335), -webkit-transform 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335);
   -moz-transition: visibility 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335), opacity 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335), -moz-transform 0.6s cubic-bezier(0.6, 0.04, 0.98, 0.335);
